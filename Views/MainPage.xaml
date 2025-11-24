@@ -19,11 +19,6 @@
         <StackPanel Margin="10"
                     dev:PanelAttach.ChildrenTransitions="Default"
                     Spacing="5">
-            <!--The SystemControl
-        PageBackgroundChromeLowBrush 
-        background represents 
-        where you should place your content.
-        Place your content here.-->
 
             <Grid Margin="5" HorizontalAlignment="Stretch">
                 <Grid.RowDefinitions>
