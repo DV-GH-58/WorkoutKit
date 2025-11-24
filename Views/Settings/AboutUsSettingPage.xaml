@@ -30,9 +30,9 @@
                                     Spacing="5">
                             <TextBlock Text="Related Links" />
                             <HyperlinkButton Content="Source Code"
-                                             NavigateUri="https://github.com/Ghost1372/DevWinUI" />
+                                             NavigateUri="https://github.com/DV-GH-58/WorkoutKit"/>
                             <HyperlinkButton Content="Release Notes"
-                                             NavigateUri="https://github.com/Ghost1372/DevWinUI/releases" />
+                                             NavigateUri="https://github.com/DV-GH-58/WorkoutKit/README.md" />
                         </StackPanel>
                     </dev:SettingsCard>
                 </dev:SettingsExpander.Items>
