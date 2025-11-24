@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WorkoutKit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WorkoutKit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
